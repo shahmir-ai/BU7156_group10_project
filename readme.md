@@ -108,3 +108,10 @@ Use [Data/Features/bank_customer_churn_features.csv](Data/Features/bank_customer
 1. Train model on [Data/Features/bank_customer_churn_train_features.csv](Data/Features/bank_customer_churn_train_features.csv).
 2. Evaluate on [Data/Features/bank_customer_churn_test_features.csv](Data/Features/bank_customer_churn_test_features.csv).
 3. Keep [Models/bank_customer_churn_preprocessor.joblib](Models/bank_customer_churn_preprocessor.joblib) alongside your trained model for reproducible prediction pipelines.
+
+## 6. Roles and Responsibilities-
+•⁠  ⁠Data Engineer - Ganenthra Ravindran
+•⁠  ⁠⁠Modelers/ Analysts - Nasrin Jaleel , Tuna Cemal Erdem
+•⁠  ⁠⁠LLM/Prompt Specialists - Bingbing Lin, Jingjing Tian 
+•⁠  ⁠⁠Visualization Experts - Sanghavi Sathiyanarayanan , Kieran Dobson
+•⁠  ⁠⁠Project Managers/ StorytellerS - Maria Denny, Shahmir Khan
