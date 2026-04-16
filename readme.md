@@ -114,4 +114,4 @@ Use [Data/Features/bank_customer_churn_features.csv](Data/Features/bank_customer
 - ⁠⁠Modelers/ Analysts - Nasrin Jaleel , Tuna Cemal Erdem
 - LLM/Prompt Specialists - Bingbing Lin, Jingjing Tian
 - Visualization Experts - Sanghavi Sathiyanarayanan , Kieran Dobson
-- ⁠⁠Project Managers/ StorytellerS - Maria Denny, Shahmir Khan
+- ⁠⁠Project Managers/ Storytellers - Maria Denny, Shahmir Khan
